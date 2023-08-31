@@ -178,7 +178,8 @@ TURMA: 4N
 
   •	Teste Exercicio 12
 
-  -------------- colocar teste aqui -----------------
+  ![image](https://github.com/yurinichimura/exerciciossistemas/assets/62074503/13d7da9f-0666-44cc-b662-d51d9071fd62)
+
 
   •	Exercicio 13
 
@@ -190,7 +191,8 @@ TURMA: 4N
 
   •	Teste Exercicio 13
 
-  -------------- colocar teste aqui -----------------
+  ![image](https://github.com/yurinichimura/exerciciossistemas/assets/62074503/8ebda9cb-b3d5-4ed5-9777-fc44529521e9)
+
 
   •	Exercicio 14
 
@@ -202,26 +204,4 @@ TURMA: 4N
 
   •	Teste Exercicio 13
 
-  -------------- colocar teste aqui -----------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  ![image](https://github.com/yurinichimura/exerciciossistemas/assets/62074503/19174d27-b625-48d6-a17e-77faede3e1d3)
